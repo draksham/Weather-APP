@@ -6,6 +6,11 @@ Use everything we’ve been discussing to create a weather forecast site using t
 
 You should change the look of the page based on the data, maybe by changing the color of the background or by adding images that describe the weather. (You could even use the Giphy API to find appropriate weather-related gifs and display them). Feel free to use promises or async/await in your code, though you should try to become comfortable with both.
 
+# Screenshot
+
+<img width="960" alt="Screenshot 2024-01-24 204634" src="https://github.com/draksham/Weather-APP/assets/123640464/02061f41-5fbf-47fc-a155-0316bb54de73">
+
+
 ## Assignment
 
 1. Set up a blank HTML document with the appropriate links to your JavaScript and CSS files.
